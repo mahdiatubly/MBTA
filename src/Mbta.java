@@ -80,7 +80,6 @@ public class Mbta {
             if (diff1 < 0) {
                 diff1 = diff1* -1;
             }
-
             int diff2 = 0;
             int mainStationIdx2 = 0;
             int s2Idx = -1;
